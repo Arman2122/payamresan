@@ -1,27 +1,7 @@
 # payamresan
-This repository
-Pull requests
-Issues
-Gist
+
  @Arman2122
- Watch 3
-  Star 4
-  Fork 8 Mrhalix/lua-pmrsn
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs
-No description or website provided.
- 16 commits
- 1 branch
- 0 releases
- 3 contributors
- Lua 97.6%	 Shell 2.4%
-Lua	Shell
-Clone or download  Create new file Upload files Find file Branch: master New pull request
-Latest commit 8316657  4 days ago @Mrhalix Mrhalix Merge pull request #2 from MRAHS/patch-1  …
-LICENSE	First Commit!	5 days ago
-README.md	Update README.md	4 days ago
-bot.lua	Update bot.lua	4 days ago
-dkjson.lua	First Commit!	5 days ago
-launch.sh	First Commit!	5 days ago
+
  README.md
 lua-pmrsn
 Bot commands =>

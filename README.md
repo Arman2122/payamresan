@@ -1,6 +1,4 @@
 # payamresan
-ربات پيام رسان ديباگ شده
-توسط آرمان
 This repository
 Pull requests
 Issues
